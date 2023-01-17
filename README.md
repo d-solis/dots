@@ -9,8 +9,8 @@
 
 # Cool People:
 
-[Alpha](https://github.com/alphatechnolog)
-[Aproxia](https://github.com/aproxia-dev)
-[Elena](https://github.com/elenapan)
-[Javacafe01](https://github.com/JavaCafe01)
-[Rxynh](https://github.com/rxyhn)
+- [Aproxia](https://github.com/aproxia-dev)
+- [Alpha](https://github.com/alphatechnolog)
+- [Elena](https://github.com/elenapan)
+- [Javacafe01](https://github.com/JavaCafe01)
+- [Rxynh](https://github.com/rxyhn)
