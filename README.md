@@ -1,6 +1,5 @@
-# Credit:
+###### Give a star if you liked it!! 
 
-  ###### [saimoomedits](https://github.com/saimoomedits)
 
 # AwesomeWM
 
@@ -71,4 +70,6 @@ sudo systemctl enable bluetooth
 ```
 sudo systemctl enable wpa_supplicant
 ```
+# Credit:
 
+  ###### [saimoomedits](https://github.com/saimoomedits)
