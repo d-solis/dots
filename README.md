@@ -8,19 +8,14 @@ No instructions for how to install these will be provided. Also these dots were 
 
 ![image](https://user-images.githubusercontent.com/43517199/213188711-a370e0d1-a2c4-4119-95bc-d51e46d81214.png)
 
-# Optional stuff
-
- - Use cron jobs to set wallpaper | Add(or remove) wallpapers to this folder $HOME/walls
- - crontab -e 
- - and paste this into the new file: 
- - */1 * * * * (export DISPLAY=:0.0 && /bin/date && /usr/bin/nitrogen --set-zoom-fill --random ~/walls --save) > /tmp/myNitrogen.log 2>&1
-
 # Hardware
 
  - Ryzen 5 5600h 
  - gtx 1650 (mobile) 
  - 32gb ram 3600mghz 
  - realtek wireless module 
+
+
 
 # Dependencies | Install with your favorite aur helper
 
@@ -32,9 +27,10 @@ inotify-tools zsh mpDris2 bluez bluez-utils bluez-plugins acpi acpi_call \
 playerctl redshift cutefish-cursor-themes-git cutefish-icons upower xorg tar \
 feh imagemagick maim gpick gcalculator neofetch discord steam heroic-games-launcher-bin \
 betterdiscordctl python-mutagen libnotify python ruby-git lua ly rofi \
+```
 
 # Hardware depencies | Do not install these!! These are for me only!! Or unless you have the same hardware.
-
+```
 yay -S rtw89 nvidia-dkms nvidia-utils lib32-nvidia-utils nvidia-settings vulkan-icd-loader lib32-vulkan-icd-loader \
 wine-staging giflib lib32-giflib libpng lib32-libpng libldap lib32-libldap gnutls lib32-gnutls \
 mpg123 lib32-mpg123 openal lib32-openal v4l-utils lib32-v4l-utils libpulse lib32-libpulse libgpg-error \
@@ -42,3 +38,15 @@ lib32-libgpg-error alsa-plugins lib32-alsa-plugins alsa-lib lib32-alsa-lib libjp
 sqlite lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-libxinerama \
 ncurses lib32-ncurses ocl-icd lib32-ocl-icd libxslt lib32-libxslt libva lib32-libva gtk3 \
 lib32-gtk3 gst-plugins-base-libs lib32-gst-plugins-base-libs vulkan-icd-loader lib32-vulkan-icd-loader \ 
+```
+
+# Optional stuff
+
+Use cron jobs to set wallpaper | Add(or remove) wallpapers to this folder $HOME/walls
+```
+crontab -e 
+```
+and paste this into the new file: 
+```
+*/1 * * * * (export DISPLAY=:0.0 && /bin/date && /usr/bin/nitrogen --set-zoom-fill --random ~/walls --save) > /tmp/myNitrogen.log 2>&1
+```
