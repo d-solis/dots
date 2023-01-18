@@ -2,8 +2,7 @@
 
 # [AwesomeWM](https://github.com/d-solis/dotfiles/tree/Awesome) 
 
-![image](https://media.discordapp.net/attachments/1017614058431713340/1062865021455056926/image.png)
-
+![image](https://user-images.githubusercontent.com/43517199/213189158-f95e7a2c-6ec6-42f8-9455-10ea5dc5280d.png)
 
 
 
