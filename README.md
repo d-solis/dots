@@ -61,4 +61,9 @@ systemctl --user enable mpDris2
 ```
 sudo systemctl enable cronie
 ```
+# Network stuff | Sometimes I forget to enable this stuff
+
+```
+sudo systemctl enable wpa_supplicant
+```
 
