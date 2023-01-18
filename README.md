@@ -50,3 +50,15 @@ and paste this into the new file:
 ```
 */1 * * * * (export DISPLAY=:0.0 && /bin/date && /usr/bin/nitrogen --set-zoom-fill --random ~/walls --save) > /tmp/myNitrogen.log 2>&1
 ```
+# Systemd Services 
+
+```
+systemctl --user enable mpd
+```
+```
+systemctl --user enable mpDris2
+```
+```
+sudo systemctl enable cronie
+```
+
