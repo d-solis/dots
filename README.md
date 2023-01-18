@@ -28,7 +28,7 @@ xdotool xclip scrot brightnessctl alsa-utils pulseaudio jq acpi rofi \
 inotify-tools zsh mpDris2 bluez bluez-utils bluez-plugins acpi acpi_call \
 playerctl redshift cutefish-cursor-themes-git cutefish-icons upower xorg tar \
 feh imagemagick maim gpick gcalculator neofetch discord steam heroic-games-launcher-bin \
-betterdiscordctl python-mutagen libnotify python ruby-git lua ly rofi \
+betterdiscordctl python-mutagen libnotify python ruby-git lua ly rofi lxappearance\
 ```
 
 # Hardware depencies | Do not install these!! These are for me only!! Or unless you have the same hardware.
