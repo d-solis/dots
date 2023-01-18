@@ -61,6 +61,9 @@ systemctl --user enable mpDris2
 ```
 sudo systemctl enable cronie
 ```
+```
+sudo systemctl enable bluetooth
+```
 # Network stuff | Sometimes I forget to enable this stuff
 
 ```
