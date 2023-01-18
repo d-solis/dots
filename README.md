@@ -10,10 +10,10 @@ No instructions for how to install these will be provided. Also these dots were 
 
 # Hardware
 
-Ryzen 5 5600h |
-gtx 1650 (mobile) |
-32gb ram 3600mghz |
-realtek wireless module 
+ - Ryzen 5 5600h |
+ - gtx 1650 (mobile) |
+ - 32gb ram 3600mghz |
+ - realtek wireless module 
 
 # Dependencies | Install with your favorite aur helper
 
