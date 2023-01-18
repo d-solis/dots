@@ -15,7 +15,9 @@ No instructions for how to install these will be provided. Also these dots were 
  - 32gb ram 3600mghz 
  - realtek wireless module 
 
-
+# GTK Themes
+ - extract the themes from $HOME/.themes
+ - Set the theme with lxappearance
 
 # Dependencies | Install with your favorite aur helper
 
