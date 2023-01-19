@@ -1,3 +1,5 @@
+###### Give a star if you liked it!! Also credit if you used anything from the repo.
+
 # Dotfiles
 
 # [AwesomeWM](https://github.com/d-solis/dotfiles/tree/awesome) 
