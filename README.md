@@ -1,4 +1,4 @@
-###### Give a star if you liked it!! Also credit if you used anything from the repo.
+###### Give a star if you liked it!! Also credit if you used anything from this repo.
 
 # Dotfiles
 
