@@ -6,7 +6,7 @@
 
 # [BSPWM](https://github.com/d-solis/dotfiles/tree/bspwm)
 ![failedtoloadlolol](https://user-images.githubusercontent.com/43517199/213497165-6cda4f79-308e-491c-bc70-462b1f3d387e.png)
- - ####### Coming soon!
+- ####### Coming soon!
 
 
 # Cool People:
