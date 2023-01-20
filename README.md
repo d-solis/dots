@@ -40,7 +40,7 @@ sqlite lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcryp
 ncurses lib32-ncurses ocl-icd lib32-ocl-icd libxslt lib32-libxslt libva lib32-libva gtk3 \
 lib32-gtk3 gst-plugins-base-libs lib32-gst-plugins-base-libs vulkan-icd-loader lib32-vulkan-icd-loader \ 
 ```
-####### [Nvidia Auto install Script](https://github.com/t0xic0der/nvidia-auto-installer-for-fedora-linux)
+[Nvidia Auto install Script| Man this is a god send](https://github.com/t0xic0der/nvidia-auto-installer-for-fedora-linux)
 # Optional stuff
 
 Use cron jobs to set wallpaper | Add(or remove) wallpapers to this folder $HOME/walls
