@@ -12,3 +12,6 @@
 - [Javacafe01](https://github.com/JavaCafe01)
 - [Rxynh](https://github.com/rxyhn)
 - [saimoomedits](https://github.com/saimoomedits)
+- [Takashi](https://github.com/ThatTakashi)
+- [Knightfall](https://github.com/Knightfall01)
+- [PROxZIMA ](https://github.com/PROxZIMA)
