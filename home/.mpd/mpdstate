@@ -1,0 +1,53 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:my_fifo
+state: pause
+current: 34
+time: 1.446000
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Fall Out Boy - Centuries.flac
+1:Daniel Tidwell - At Doom-'s Gate (DOOM E1M1).flac
+2:The Wanted - Glad You Came.flac
+3:塞壬唱片-MSR,Jason Walsh,Cristina Vee - Boiling Blood.flac
+4:Pawel Blaszczak - Horizon.flac
+5:Steve Aoki,Yellow Claw,Runn - End Like This.flac
+6:Imagine Dragons - Enemy.flac
+7:塞壬唱片-MSR,Obadiah Brown-Beach,Forts - Eternal Flame.flac
+8:Imagine Dragons - Believer.flac
+9:Imagine Dragons - Thunder.flac
+10:Imagine Dragons - Whatever It Takes.flac
+11:The Script - Hall of Fame (feat. will.i.am).flac
+12:Twenty One Pilots - Heathens.flac
+13:PnB Rock - Horses.flac
+14:Hozier - Take Me To Church.flac
+15:STARSET - INFECTED.flac
+16:Portals - Watch Out.flac
+17:塞壬唱片-MSR,Melissa Kaplan - Keep the torch.flac
+18:R. City - Locked Away (feat. Adam Levine).flac
+19:Flo Rida - My House.flac
+20:Tee Grizzley - Country.flac
+21:Imagine Dragons - Radioactive.flac
+22:Maroon 5 - Payphone.flac
+23:Maroon 5 - One More Night.flac
+24:塞壬唱片-MSR - Renegade.flac
+25:Gym Class Heroes - Stereo Hearts (feat. Adam Levine).flac
+26:Black Eyed Peas - I Gotta Feeling.flac
+27:Macklemore & Ryan Lewis - Can-'t Hold Us (feat. Ray Dalton).flac
+28:Taio Cruz - Dynamite.flac
+29:Dm Dokuro - The Tale of a Cruel World.flac
+30:Twenty One Pilots - Chlorine.flac
+31:Maroon 5 - Animals.flac
+32:Maroon 5 - Maps.flac
+33:Usher - DJ Got Us Fallin-' In Love (feat. Pitbull).flac
+34:塞壬唱片-MSR,Alan Day,Jason Walsh - Operation Pyrite.flac
+35:塞壬唱片-MSR,Erik Castro,X. ARI - Operation Ashring.flac
+36:塞壬唱片-MSR,Erik Castro,David Lin - Operation Fake Waves.flac
+37:塞壬唱片-MSR - ManiFesto：.flac
+playlist_end
