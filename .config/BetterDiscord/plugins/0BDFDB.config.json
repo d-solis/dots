@@ -1,0 +1,25 @@
+{
+	"all": {
+		"changeLogs": {
+			"BDFDB": "3.1.5",
+			"GameActivityToggle": "1.2.0",
+			"PluginRepo": "2.4.6",
+			"ReadAllNotificationsButton": "1.7.4",
+			"ThemeRepo": "2.4.9",
+			"Translator": "2.5.4"
+		},
+		"choices": {
+			"toastPosition": "right"
+		},
+		"general": {
+			"shareData": true,
+			"showToasts": true,
+			"showSupportBadges": false,
+			"useChromium": false
+		},
+		"hashes": {
+			"0BDFDB.data.json": "939d5545af24ad41aba0e9a579a0b84b2c1f1f1c",
+			"0BDFDB.raw.css": "f52cb738c62f9d43592643771b39e0783b93ff1b"
+		}
+	}
+}
