@@ -8,7 +8,6 @@
 
 # [hyprland](https://github.com/d-solis/dotfiles/tree/hyprland)
 ![image](https://user-images.githubusercontent.com/43517199/224127003-05df16bd-e2ce-473f-a439-63f5127d0346.png)
-- Coming soon! - Dotfiles for hyprland are not in the hyprland branch atm.
 
 # Cool People:
 
