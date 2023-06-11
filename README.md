@@ -1,5 +1,7 @@
 ###### Give a star if you liked it!! Also credit me if you used anything from this repo.
 
+# hyprlandv2
+
 **Install script coming soon**
 
 ![image](https://github.com/d-solis/dotfiles/assets/43517199/abae4682-ca48-4da4-a90c-50f900db6a77)
