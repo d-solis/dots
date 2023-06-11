@@ -1,15 +1,21 @@
 ###### Give a star if you liked it!! Also credit me if you used anything from this repo.
 
-# Dotfiles
+**Install script coming soon**
 
-# [hyprland vCyberpunk](https://github.com/d-solis/dotfiles/tree/hyprlandvcyberpunk)
+# Grab thes pkgs
 
+'''
+yay -S hyprland eww-wayland ttf-ubuntu-nerd socat ttf-iosevka-nerd jq acpi inotify-tools bluez pavucontrol brightnessctl playerctl nm-connection-editor imagemagick gjs gnome-bluetooth-3.0 upower networkmanager gtk3 wl-gammactl wlsunset wl-clipboard hyprpicker hyprshot blueberry polkit-gnome mpvpaper
+'''
 
-# [hyprland](https://github.com/d-solis/dotfiles/tree/hyprland)
-![image](https://user-images.githubusercontent.com/43517199/224127003-05df16bd-e2ce-473f-a439-63f5127d0346.png)
+# Copy configs
 
-# [AwesomeWM](https://github.com/d-solis/dotfiles/tree/awesome) 
-![image](https://user-images.githubusercontent.com/43517199/213189158-f95e7a2c-6ec6-42f8-9455-10ea5dc5280d.png)
+'''
+git clone -b https://github.com/d-solis/dotfiles/tree/hyprlandv2
+cp -r dotfiles/.config/eww ~/.config/eww
+cp -r dotfiles/.config/hypr ~/.config/hypr
+mv ~/.config/hypr/_hyprland.conf ~/.config/hypr/hyprland.conf
+'''
 
 # Cool People:
 
@@ -22,3 +28,4 @@
 - [Takashi](https://github.com/ThatTakashi)
 - [Knightfall](https://github.com/Knightfall01)
 - [PROxZIMA ](https://github.com/PROxZIMA)
+- [Aylur](https://github.com/Aylur/)
