@@ -2,6 +2,8 @@
 
 **Install script coming soon**
 
+![image](https://github.com/d-solis/dotfiles/assets/43517199/abae4682-ca48-4da4-a90c-50f900db6a77)
+
 # Grab these pkgs
 
 ```
