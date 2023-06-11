@@ -4,6 +4,8 @@
 
 # [hyprlandv2](https://github.com/d-solis/dotfiles/tree/hyprlandv2)
 ![image](https://github.com/d-solis/dotfiles/assets/43517199/abae4682-ca48-4da4-a90c-50f900db6a77)
+ - **Not published yet
+
 
 # [hyprland](https://github.com/d-solis/dotfiles/tree/hyprland)
 ![image](https://user-images.githubusercontent.com/43517199/224127003-05df16bd-e2ce-473f-a439-63f5127d0346.png)
