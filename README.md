@@ -12,8 +12,8 @@ yay -S hyprland eww-wayland ttf-ubuntu-nerd ttf-iosevka-nerd socat jq acpi inoti
 
 ```
 git clone -b https://github.com/d-solis/dotfiles/tree/hyprlandv2
-cp -r dotfiles/.config/eww ~/.config/eww
-cp -r dotfiles/.config/hypr ~/.config/hypr
+cp -r dotfiles/config/eww ~/.config/eww
+cp -r dotfiles/config/hypr ~/.config/hypr
 mv ~/.config/hypr/_hyprland.conf ~/.config/hypr/hyprland.conf
 ```
 
