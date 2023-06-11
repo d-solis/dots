@@ -24,3 +24,4 @@
 - [Takashi](https://github.com/ThatTakashi)
 - [Knightfall](https://github.com/Knightfall01)
 - [PROxZIMA ](https://github.com/PROxZIMA)
+- [Aylur](https://github.com/Aylur/)
