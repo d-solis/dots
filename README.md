@@ -2,7 +2,7 @@
 
 **Install script coming soon**
 
-# Grab thes pkgs
+# Grab these pkgs
 
 ```
 yay -S hyprland eww-wayland ttf-ubuntu-nerd socat ttf-iosevka-nerd jq acpi inotify-tools bluez pavucontrol brightnessctl playerctl nm-connection-editor imagemagick gjs gnome-bluetooth-3.0 upower networkmanager gtk3 wl-gammactl wlsunset wl-clipboard hyprpicker hyprshot blueberry polkit-gnome mpvpaper
