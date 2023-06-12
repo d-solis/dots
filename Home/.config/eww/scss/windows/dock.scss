@@ -1,0 +1,55 @@
+$dock_icon_size: 6em;
+
+.dock{
+    .container{
+        min-width: $dock_icon_size*8;
+        min-height: $dock_icon_size*1.3;
+        &.hovered{
+            min-width: $dock_icon_size*8.7;
+        }
+    }
+
+    .foot{
+        @include floating_widget;
+        margin: 0 0em;
+        padding: 0;
+        border-radius: $popover_radius $popover_radius 0 0;
+        border-bottom: none;
+        min-height: 1.5em;  //footer height
+    }
+
+    .laucher{
+        .indicator{
+            min-height: .4em;  //indicator height
+            min-width: 2em;    //indicator width
+            border-radius: $button_radius;
+        }
+        .icon{
+            min-width:   50px;
+            min-height:  50px;
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+        &:hover{
+            background-image: linear-gradient(transparent, transparentize($fg_color, 0.94));
+            .icon{
+                min-width:   $dock_icon_size*1.2;
+                min-height:  $dock_icon_size*1.2;
+            }
+        }
+        &:active{
+            .indicator{
+                background-color: $accent;
+            }
+        }
+        &.firefox .icon{ background-image:      url($assets+'apps/firefox.png'); }
+        &.discord .icon{ background-image:      url($assets+'apps/discord.png'); }
+        &.terminal .icon{ background-image:     url($assets+'apps/terminal.png'); }
+        &.file-manager .icon{ background-image: url($assets+'apps/file-manager.png'); }
+        &.editor .icon{ background-image:       url($assets+'apps/editor.png'); }
+        &.music .icon{ background-image:      url($assets+'apps/music.png'); }
+        &.steam .icon{ background-image:      url($assets+'apps/steam.png'); }
+        &.lutris .icon{ background-image:       url($assets+'apps/lutris.png'); }
+        &.heroic-launcher .icon{ background-image:       url($assets+'apps/heroic-launcher.png'); }
+    }
+}

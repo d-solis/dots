@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+
+pkill eww
+pkill myshell
+eww daemon
+ 
+# HDMI=$(hyprctl monitors -j | jq .[1].name)
+# if [[ $HDMI == '"HDMI-A-1"' ]]; then
+#     # open both monitor stuff
+# else
+#     # open main monitror stuff
+# fi
+
+env XDG_CACHE_HOME=/tmp eww open bar
+env XDG_CACHE_HOME=/tmp eww open dock
+#eww open desktop
+env XDG_CACHE_HOME=/tmp eww open notifications_popup
+# eww inspector
+
+#swww init
+#swww ~/walls/1.gif
+
+$HOME/.config/eww/scripts/myshell/./myshell --eww --file
+
