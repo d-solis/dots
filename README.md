@@ -1,4 +1,4 @@
-###### Give a star if you liked it!! Also credit me if you used anything from this repo.
+###### **Give a star if you liked it!! Also credit me if you used anything from this repo.
 
 # hyprlandv2
 
@@ -20,6 +20,8 @@ Commands comming soon.
 
 ### Cool People:
 
+- [**PROxZIMA**](https://github.com/PROxZIMA)
+- [**Aylur**](https://github.com/Aylur/)
 - [Aproxia](https://github.com/aproxia-dev)
 - [Alpha](https://github.com/alphatechnolog)
 - [Elena](https://github.com/elenapan)
@@ -28,5 +30,4 @@ Commands comming soon.
 - [saimoomedits](https://github.com/saimoomedits)
 - [Takashi](https://github.com/ThatTakashi)
 - [Knightfall](https://github.com/Knightfall01)
-- [**PROxZIMA**](https://github.com/PROxZIMA)
-- [**Aylur**](https://github.com/Aylur/)
+
