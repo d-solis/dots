@@ -1,0 +1,14 @@
+{
+    "settings": {
+        "disableWhenSpotify": false,
+        "listeningTo": true,
+        "artistActivityName": false,
+        "lastfmButton": true,
+        "youtubeButton": true,
+        "assetIcon": true,
+        "artistBeforeAlbum": true,
+        "disableWhenActivity": false,
+        "lastFMNickname": "d-solis",
+        "lastFMKey": "2127e5e7835c80b7c071a87e6a252447"
+    }
+}
