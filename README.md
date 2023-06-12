@@ -9,7 +9,7 @@
 ### Grab these pkgs
 
 ```
-yay -S wlroots hyprland eww-wayland ttf-font-awesome ttf-ubuntu-nerd ttf-iosevka-nerd noto-fonts noto-fonts-emoji socat jq acpi inotify-tools bluez bluez-utils pavucontrol brightnessctl playerctl nm-connection-editor imagemagick gjs gnome-bluetooth-3.0 upower networkmanager gtk3 wl-gammactl wlsunset wl-clipboard hyprpicker hyprshot blueberry polkit-gnome mpvpaper sonixd wine-staging lutris steam heroic-games-launcher-bin grim slurp firefox-developer-edition thunar gvfs
+yay -S wlroots hyprland eww-wayland ttf-font-awesome ttf-ubuntu-nerd ttf-iosevka-nerd noto-fonts noto-fonts-emoji socat jq acpi inotify-tools bluez bluez-utils pavucontrol brightnessctl playerctl nm-connection-editor imagemagick gjs gnome-bluetooth-3.0 upower networkmanager gtk3 wl-gammactl wlsunset wl-clipboard hyprpicker hyprshot blueberry polkit-gnome mpvpaper sonixd wine-staging lutris steam heroic-games-launcher-bin grim slurp firefox-developer-edition thunar gvfs wpa_supplicant networkmanager vim neovim emacs geany nano pamac-aur
 ```
 
 ### Copy configs
