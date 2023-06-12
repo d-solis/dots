@@ -20,8 +20,8 @@ Commands comming soon.
 
 ### Cool People:
 
-- [**PROxZIMA**](https://github.com/PROxZIMA)
 - [**Aylur**](https://github.com/Aylur/)
+- [**PROxZIMA**](https://github.com/PROxZIMA)
 - [Aproxia](https://github.com/aproxia-dev)
 - [Alpha](https://github.com/alphatechnolog)
 - [Elena](https://github.com/elenapan)
