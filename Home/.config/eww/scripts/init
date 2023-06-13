@@ -2,7 +2,7 @@
 
 pkill eww
 pkill myshell
-eww daemon
+env XDG_CACHE_HOME=/tmpeww daemon
  
 # HDMI=$(hyprctl monitors -j | jq .[1].name)
 # if [[ $HDMI == '"HDMI-A-1"' ]]; then
