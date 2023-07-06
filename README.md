@@ -4,7 +4,7 @@
 
 ## [AwesomeV2](https://github.com/d-solis/dotfiles/tree/awesomev2) 
 ![image](https://github.com/d-solis/dotfiles/assets/43517199/5aacf912-49e3-4309-affe-bb24d9d1101d)
-###### *Not published yet!
+###### *Not published yet! ^
 
 ## [hyprlandv2](https://github.com/d-solis/dotfiles/tree/hyprlandv2)
 ![image](https://github.com/d-solis/dotfiles/assets/43517199/abae4682-ca48-4da4-a90c-50f900db6a77)
