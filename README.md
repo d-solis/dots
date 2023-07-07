@@ -2,7 +2,7 @@
 
 # Dotfiles
 
-## [AwesomeV2](https://github.com/d-solis/dotfiles/tree/awesomev2) 
+## AwesomeV2
 ![image](https://github.com/d-solis/dotfiles/assets/43517199/5aacf912-49e3-4309-affe-bb24d9d1101d)
 ###### *Not published yet! ^
 
