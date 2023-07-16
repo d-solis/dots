@@ -1,5 +1,5 @@
 <h5 align="center">I don't really care about credits, but if you credit me thats cool, also if you can give this repo a star that would be awesome!</h5> 
-
+<h5 align="center">Unmaintained simply means I don't have that rice as my daily driver atm, I will still attempt to help fix issues with them though.</h5> 
 <h1 align="left">Dotfiles
 
 
@@ -9,17 +9,17 @@
 </h1> 
 
 
-## [AwesomeV2](https://github.com/d-solis/dotfiles/tree/awesomev2) 
-![image](https://raw.githubusercontent.com/d-solis/dotfiles/main/assets/AwesomeV2.png)
-###### *Not published yet! ^
 
-## [hyprlandv2](https://github.com/d-solis/dotfiles/tree/hyprlandv2)
+## [AwesomeV2 (Not Published Yet!)](https://github.com/d-solis/dotfiles/tree/awesomev2) 
+![image](https://raw.githubusercontent.com/d-solis/dotfiles/main/assets/AwesomeV2.png)
+
+## [hyprlandv2 (Unmaintained)](https://github.com/d-solis/dotfiles/tree/hyprlandv2)
 ![image](https://raw.githubusercontent.com/d-solis/dotfiles/main/assets/HyprlandV2.png)
 
-## [hyprland](https://github.com/d-solis/dotfiles/tree/hyprland)
+## [hyprland (Unmaintained)](https://github.com/d-solis/dotfiles/tree/hyprland)
 ![image](https://user-images.githubusercontent.com/43517199/224127003-05df16bd-e2ce-473f-a439-63f5127d0346.png)
 
-## [Awesome](https://github.com/d-solis/dotfiles/tree/awesome) 
+## [Awesome (Unmaintained)](https://github.com/d-solis/dotfiles/tree/awesome) 
 ![image](https://user-images.githubusercontent.com/43517199/213189158-f95e7a2c-6ec6-42f8-9455-10ea5dc5280d.png)
 
 ### Cool People:
