@@ -1,4 +1,4 @@
-<h5 align="center">I don't really care about credits, but if you credit me thats cool, also if you can give this repo a star that would be awesome!</h5> 
+![image](https://github.com/d-solis/dotfiles/assets/43517199/40385b4a-d2dd-4436-a54e-e52f35c7d93c)<h5 align="center">I don't really care about credits, but if you credit me thats cool, also if you can give this repo a star that would be awesome!</h5> 
 
 <h1 align="left">Dotfiles
 
@@ -10,7 +10,7 @@
 
 
 ## [AwesomeV2](https://github.com/d-solis/dotfiles/tree/awesomev2) 
-![image](https://github.com/d-solis/dotfiles/assets/43517199/5aacf912-49e3-4309-affe-bb24d9d1101d)
+![image](https://github.com/d-solis/dotfiles/assets/43517199/274eb156-4dda-4de7-9924-afaddfa55f31)
 ###### *Not published yet! ^
 
 ## [hyprlandv2](https://github.com/d-solis/dotfiles/tree/hyprlandv2)
