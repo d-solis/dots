@@ -1,4 +1,4 @@
-![image](https://github.com/d-solis/dotfiles/assets/43517199/40385b4a-d2dd-4436-a54e-e52f35c7d93c)<h5 align="center">I don't really care about credits, but if you credit me thats cool, also if you can give this repo a star that would be awesome!</h5> 
+<h5 align="center">I don't really care about credits, but if you credit me thats cool, also if you can give this repo a star that would be awesome!</h5> 
 
 <h1 align="left">Dotfiles
 
