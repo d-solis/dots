@@ -1,4 +1,4 @@
-###### Give a star if you liked it!! Also credit me if you used anything from this repo.
+<h5 align="center">I don't really care about credits, but if you credit me thats cool, also if you can give this repo a star that would be awesome!</h5> 
 
 <h1 align="left">Dotfiles
 
