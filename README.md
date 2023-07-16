@@ -1,6 +1,13 @@
 ###### Give a star if you liked it!! Also credit me if you used anything from this repo.
 
-# Dotfiles
+<h1 align="left">Dotfiles
+
+
+<img src="https://img.shields.io/github/watchers/d-solis/dotfiles?color=%238AB4F8&labelColor=101012&label=watchers&style=for-the-badge" width=100 height=30 align="right" />
+<img src="https://img.shields.io/github/stars/d-solis/dotfiles?color=%238AB4F8&labelColor=101012&label=stars&style=for-the-badge" width=100 height=30 align="right" />
+
+</h1> 
+
 
 ## [AwesomeV2](https://github.com/d-solis/dotfiles/tree/awesomev2) 
 ![image](https://github.com/d-solis/dotfiles/assets/43517199/5aacf912-49e3-4309-affe-bb24d9d1101d)
