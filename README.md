@@ -36,6 +36,6 @@
 - [Aylur](https://github.com/Aylur/)
 
 ![image](https://raw.githubusercontent.com/d-solis/dotfiles/main/assets/cat.svg)
-<h1 align="center">
+<h3 align="center">
 Thanks for stopping by!
-</h1>
+</h3>
