@@ -1,0 +1,22 @@
+font_family Iosevka Nerd Font
+bold_font auto
+italic font auto
+bold_italic_font auto
+font_size 14
+
+window_padding_width 12
+
+disable_ligatures never
+
+copy_on_select
+
+shell fish
+
+close_on_child_death yes
+
+background_opacity 1
+
+# BEGIN_KITTY_THEME
+# Dark Arts
+include current-theme.conf
+# END_KITTY_THEME
