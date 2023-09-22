@@ -1,0 +1,45 @@
+/**
+* @name ComfyGray
+* @version 1.0
+* @author carrot#8812
+* @description A theme with a nice shade of gray everywhere! Its super comfy.
+* @source not-set
+* @invite not-set
+*/
+
+
+/* Main CSS StyleSheet. >> Removing this will break the Theme! << */
+
+@import url(//objectiveslayer.github.io/ComfyGray/ComfyGray.css);
+
+
+
+
+/* All the addon imports (Comment out or striaght up remove them to disable) */
+
+
+/* Icon change import by Obscure.#4719 */
+@import url(//objectiveslayer.github.io/ComfyGray/addons/icon-replace.css);
+
+/* Radial Status by Gibbu#1211 */
+@import url(//objectiveslayer.github.io/ComfyGray/addons/radial-status.css);
+
+/* server Rings */
+@import url(//objectiveslayer.github.io/ComfyGray/addons/server-rings.css);
+
+/* Home Icon */
+@import url(//objectiveslayer.github.io/ComfyGray/addons/homeicon.css);
+
+/* Border Roles (makes the text and border the same color as the role color) */
+@import url(//objectiveslayer.github.io/ComfyGray/addons/roles.css);
+
+/* User Controls Area.. Looks super cool. */
+@import url(//objectiveslayer.github.io/ComfyGray/addons/user-controls.css);
+
+/* floating server list, Remove the comment if you want it
+@import url(//objectiveslayer.github.io/ComfyGray/addons/floating%20guild%20list.css);
+/*
+
+
+
+/* add custom css below this */
