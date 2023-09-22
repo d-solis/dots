@@ -10,7 +10,7 @@
 
 
 
-## [AwesomeV2 (Not Published Yet!)](https://github.com/d-solis/dotfiles/tree/awesomev2) 
+## [AwesomeV2](https://github.com/d-solis/dotfiles/tree/awesomev2) 
 ![image](https://raw.githubusercontent.com/d-solis/dotfiles/main/assets/AwesomeV2.png)
 
 ## [hyprlandv2 (Unmaintained)](https://github.com/d-solis/dotfiles/tree/hyprlandv2)
